@@ -12,6 +12,6 @@ for figure in figures:
     if isinstance(figure, Square):
         print(figure.get_area_square())
     elif isinstance(figure, Circle):
-        print(figure.get_circle_are())
+        print(figure.get_circle_area())
     else:
         print(figure.get_area())
