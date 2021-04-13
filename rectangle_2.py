@@ -20,4 +20,4 @@ for figure in figures:
         print(figure.get_area())
 
 circle_1 = Circle(5)
-print(circle_1.get_circle_are())
+print(circle_1.get_circle_area())
